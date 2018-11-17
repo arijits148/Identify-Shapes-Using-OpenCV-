@@ -9,3 +9,13 @@
    * OpenCV
    
 ## Input Image
+
+![someshapes](https://user-images.githubusercontent.com/40036314/48658073-a7a2ed00-ea61-11e8-9e3f-9ef8569d472f.jpg)
+
+## Output Images Through Step By Step
+
+![identifying shapes_screenshot_03 11 2018](https://user-images.githubusercontent.com/40036314/48658097-08322a00-ea62-11e8-91a4-77bce2934b5c.png)
+![2](https://user-images.githubusercontent.com/40036314/48658098-0d8f7480-ea62-11e8-9a85-89a12a2a150d.png)
+![3](https://user-images.githubusercontent.com/40036314/48658101-154f1900-ea62-11e8-8557-c73682db072d.png)
+![4](https://user-images.githubusercontent.com/40036314/48658103-1a13cd00-ea62-11e8-8302-a85f6c198902.png)
+![5](https://user-images.githubusercontent.com/40036314/48658104-1e3fea80-ea62-11e8-9992-2fdc2658eb72.png)
