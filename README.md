@@ -7,6 +7,7 @@
    
    * Python
    * OpenCV
+   * Numpy
    
 ## Input Image
 
